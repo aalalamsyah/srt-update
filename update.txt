@@ -1,1 +1,3 @@
 2025-08-24
+1. Penambahan opsi share.
+2. Query Improvement
